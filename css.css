@@ -1,0 +1,231 @@
+.text-center img{
+    width:240px;
+    margin-top:9;
+}
+.p-2{
+    background-color:rgb(61, 2, 78);
+    text-align: center;
+    font-weight:bold;
+    font-size:13px;
+}
+ .p-3{
+    margin-left:20px;
+    margin-top: -10px;
+
+    
+}
+.seperator{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top:-15px;
+    column-gap: 8px;
+    font-size:22px;
+    color:black;
+    }
+    .seperator p{
+        margin-top: 15px;
+        margin-right: 15px;
+    }
+    .seperator span
+    {
+        width:1000px;
+        height:1px;
+        background-color:rgb(206, 206, 206);
+        display: block;
+        margin: 40px;
+        flex-wrap:wrap;
+    }
+    .box{
+        display: flex;
+        display:row;
+        margin-right:5px;
+    }
+     .box1{
+            display: flex;
+            display:row;
+            margin-right:5px;
+        }
+        .box1 img{
+            width:230px;
+            height:230px;
+            margin-left:35px;
+        }
+        .box1 .ab .change{
+            margin-top:-258px;
+        }
+        .box1 .ab .change{
+            transition:opacity 0.5s ease-in-out;
+            cursor: pointer;
+        }
+        .box1 .ab .change:hover{
+           opacity:0;
+        }
+       h6{
+        text-align: center;
+       }
+        .btn1{
+            width:230px;
+            height:35px;
+            border:1px solid rgb(221, 24, 24);
+            margin-left:36px;
+          }
+          .btn1:hover{
+            background-color:rgb(244, 54, 76);
+            color:black;
+          }
+         h6 p .price{
+            font-size:8px;
+          }
+          .btn2{
+            margin-left:500px;
+            padding-inline:45px;
+            border:1px solid rgb(221, 24, 24);
+            height:37px;
+            background-color:white;
+             }
+             .btn3{
+                padding-inline:50px;
+                border:1px solid rgb(221, 24, 24);
+                height:37px;
+                margin-inline:30px;
+                background-color: white;
+             }
+             .btn2:hover{
+                background-color:rgb(244, 54, 76);
+             }
+             .btn3:hover{
+                background-color:rgb(244, 54, 76);
+             }
+             .box2{
+                display: flex;
+                display:row;
+             }
+             .box2 .ba img{
+                width:400px;
+                height: 270px;
+                margin-left:37px;
+             }
+           .btn4{
+            background-color:rgb(244, 54, 76);
+            color: white;
+            width:160px;
+            height:37px;
+            margin-left:128px;
+            border:1px solid rgb(244, 54, 76);
+            font-weight:bold;
+            font-size:12px;
+        }
+        .btn4:hover{
+            background-color:rgb(255, 255, 255);
+            color:black;
+            border-color:rgb(244, 54, 76);     
+       }
+       .foot{
+        width:1353px;
+        height:200px;
+        background-color:rgba(248, 246, 246, 0.993);
+       }
+        .para{
+        font-size:21px;
+        margin-left:53px;
+        padding-top:60px;
+        font-weight:4px;
+       }
+      .feild input{
+        width:340px;
+        height:36px;
+        margin-left:53px;
+        color:rgb(241, 237, 237);
+        padding-left:16px;
+        border:1px solid rgb(192, 188, 188);
+        font-size:14px;
+
+      }
+      .btn5{
+        width:160px;
+        height:36px;
+        background-color:rgb(20, 20, 20);
+        color:white;
+        font-size:12px;
+        font-weight:bold;
+        border:1px solid  rgb(31, 30, 30);
+      }
+      .btn5:hover{
+        background-color:white;
+        color:black;
+        border:1px solid rgb(31, 30, 30);
+        cursor: pointer;
+      }
+      .foot img{
+        width:390px;
+        height:200px;
+        margin-left:896px;
+        margin-top:-130px;
+      }
+      .footer{
+        width:1353px;
+         height:330px; 
+        background-color:white;
+      }
+      .footer.feet{
+        margin-left:19px;
+        margin-top:40px;
+      }
+      .acc{
+        font-size:17px;
+        color: black;
+        font-weight:100px;
+      }
+      .acc1{
+        font-size:17px;
+        color: black;
+        font-weight:100px;
+        
+      }
+      .acc2{
+        font-size:17px;
+        color: black;
+        font-weight:100px;
+      }
+       acc3 li{
+        font-size:17px;
+        color: black;
+        font-weight:100px;
+        
+      }
+      .feet ul li{
+       list-style:none;
+       color:rgb(145, 139, 139);
+       font-size:13px;
+     }
+     .feet{
+        margin-top:44px;
+        margin-inline:47px;
+        }
+        li{
+           margin-top:8px;
+        }
+        .end{
+            color:rgb(145, 139, 139);
+            font-size:13px;
+            margin-top:20px;
+            margin-left:17px;
+        }
+        .btn6{
+            border:1px solid rgb(107, 104, 104);
+            height:30px;
+            margin-inline:30px;
+            background-color: white;
+            width:77px;
+            margin-left:540px;
+            font-size:12px;
+            margin-bottom:28px;
+        }
+        .oil{
+            font-size:13px;
+            margin-left:640px;
+            margin-top:-54px;
+            color:rgb(114, 112, 112);
+            
+}
